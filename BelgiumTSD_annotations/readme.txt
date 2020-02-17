@@ -13,7 +13,7 @@ We ease the task for the practitioners and provide these annotations with a stru
 by defining the following superclasses (based on shape and color):
 
 -1.   undefined traffic sign (TS) class type; %-1
-0.    other defined TS = [all the other defined TS ids besides the following 11]; %0
+0.    other defined TS = [all the other defined TS ids besides the following 11]; %0 (compresi anche 0,1)
 1.    triangles = [2 3 4 7 8 9 10 12 13 15 17 18 22 26 27 28 29 34 35];   %1 (corresponds to Danger superclass in GTSDB)
 2.    redcircles  = [36 43 48 50 55 56 57 58 59 61 65]; %2 (corresponds to Prohibitory superclass in GTSDB)
 3.    bluecircles = [72 75 76 78 79 80 81];    %3 (corresponds to Mandatory superclass in GTSDB)
